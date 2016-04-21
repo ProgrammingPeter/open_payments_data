@@ -19,7 +19,7 @@ class OpenPayment extends Model
      * @var array
      */
     protected $fillable = [
-        'applicable_manufacturer_or_applicable_gpo_making_payment_country'
+        'applicable_manufacturer_or_applicable_gpo_making_payment_country',
         'applicable_manufacturer_or_applicable_gpo_making_payment_id',
         'applicable_manufacturer_or_applicable_gpo_making_payment_name',
         'applicable_manufacturer_or_applicable_gpo_making_payment_state',

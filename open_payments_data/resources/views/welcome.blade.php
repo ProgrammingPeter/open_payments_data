@@ -41,5 +41,10 @@
                 <div class="title">Laravel 5</div>
             </div>
         </div>
+
+        <div id="the-basics">
+          <input class="typeahead" type="text" placeholder="Enter first or last name">
+        </div>
+
     </body>
 </html>
